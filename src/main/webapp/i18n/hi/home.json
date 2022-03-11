@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "आपका स्वागत है, Java AppBrahma!",
+    "subtitle": "यह आपका मुखपृष्ठ है",
+    "logged": {
+      "message": "आप उपयोगकर्ता \"{{username}}\" के रूप में लॉग इन है।"
+    },
+    "question": "यदि आपको AppBrahma के बारें कोई भी सवाल है:",
+    "link": {
+      "homepage": "AppBrahma मुखपृष्ठ",
+      "stackoverflow": "AppBrahma स्टैक ओवरफ़्लो",
+      "bugtracker": "AppBrahma बग tracker",
+      "chat": "AppBrahma सार्वजनिक चैट रूम",
+      "follow": "@AppBrahma को ट्विटर पर फौलो करें"
+    },
+    "like": "यदि आपको AppBrahma पसंद है, तो हमें एक स्टार देना न भूलें",
+    "github": "GitHub पर"
+  }
+}
